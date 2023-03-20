@@ -80,8 +80,8 @@
 
 ### Connect with me
 
-Skype:: live:.cid.8aaea19081d7e7b2
-Telegram:: t.me/springheart199279
-Discord:: Spring Heart#2738
+Skype:: live:.cid.8aaea19081d7e7b2 <br />
+Telegram:: t.me/springheart199279 <br />
+Discord:: Spring Heart#2738 <br />
 
 
