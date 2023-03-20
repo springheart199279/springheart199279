@@ -1,5 +1,5 @@
 
-## Hello, Everyone! I love Dawn.
+## Hello, Everyone! I love Spring.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DevOps,Senior+Full-Stack+Engineer;AWS+Community+Builder;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;and+UI/UX-designer!;)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
@@ -13,7 +13,7 @@
 <details>
     <summary>&#127942 GitHub Awards</summary><br>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=dinushchathurya)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=springheart199279)
 </details>
 
 <details>
@@ -80,6 +80,8 @@
 
 ### Connect with me
 
-Skype:: live:.cid.a0a9d906867e58eb
+Skype:: live:.cid.8aaea19081d7e7b2
+Telegram:: t.me/springheart199279
+Discord:: Spring Heart#2738
 
 
