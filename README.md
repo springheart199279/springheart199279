@@ -76,12 +76,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width:40px; height:40px"/>
                                                                                                                                </p>
 
----
-
-### Connect with me
-
-Skype:: live:.cid.8aaea19081d7e7b2 <br />
-Telegram:: t.me/springheart199279 <br />
-Discord:: Spring Heart#2738 <br />
-
 
